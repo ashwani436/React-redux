@@ -1,0 +1,14 @@
+/* .card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+} */
+.card-text-center{
+  height:200px;
+  width: 2;
+}
+.card-img-top{
+    
+    max-width:150px;
+    max-height: 150px;
+}
